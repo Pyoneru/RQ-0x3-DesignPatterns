@@ -19,7 +19,7 @@ public class App {
         rq.addSubscriber(discord);
 
         User pyoneru = new User("Pyoneru");
-        User lazzar = new User("Lazzar");
+        User lazzr = new User("LazzR");
         User onlySlack = new User("OnlySlack");
         User onlyDiscord = new User("OnlyDiscord");
 
